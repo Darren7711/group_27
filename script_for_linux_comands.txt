@@ -1,0 +1,7 @@
+cd ~/andrey/work/group_27/terminal_comands
+mkdir dir1 dir2 dir3
+cd dir1
+touch file1.txt file2.txt file3.txt file4.json file5.json
+mkdir dir1_1 dir2_1 dir3_1
+ls -l
+mv file4.json file5.json ~/andrey/work/group_27/terminal_comands/dir2
