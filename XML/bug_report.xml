@@ -1,1 +1,7 @@
-
+<bug_report>
+  <summary>The Edit button doesn't work for the product on the cart page</summary>
+  <priority>high</priority>
+  <steps_to_reproduce>1. Log in as valid user, 2. Add product to the cart, 3. Open cart, 4. Click on the Edit button near the product</steps_to_reproduce>
+  <expected_behavior>Configurator for the product is opened</expected_behavior>
+  <observed_behavior>Configurator for the product is NOT opened</observed_behavior>
+</bug_report>
