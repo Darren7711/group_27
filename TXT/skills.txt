@@ -1,4 +1,4 @@
 skills:
-	1. hard_skills: http methods, postman, fiddler, sql,
-	2. soft_skillls: relax_technique
+  1. hard_skills: http methods, postman, fiddler, sql,
+  2. soft_skillls: relax_technique
   3. etc.
