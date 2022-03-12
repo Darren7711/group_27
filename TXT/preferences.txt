@@ -1,0 +1,5 @@
+favorite_film - Forrest Gump,
+favorite_serial - Fleabag,
+favorite_food - pizza,
+favorite_season - summer,
+country_to_visit - Germany
