@@ -1,0 +1,8 @@
+1. Summury
+2. Priority
+3. Steps to reproduce
+4. Expected result
+5. Actual result
+6. Attachments
+7. Assign to
+8. etc.
